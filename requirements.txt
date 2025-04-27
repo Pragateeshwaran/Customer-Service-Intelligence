@@ -1,0 +1,9 @@
+streamlit
+streamlit-chat
+transformers
+torch
+speechbrain
+python-dotenv
+sendgrid
+langchain
+langchain-groq
